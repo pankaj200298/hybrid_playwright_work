@@ -71,18 +71,16 @@ allure serve reports/allure-results
 ---
 
 ## 📂 Project Structure
-\`\`\`
+## 📂 Project Structure
 .
-├── tests/                     # Test cases
-├── pages/                     # Page Object Model classes
-├── utils/                     # Utility functions
-├── reports/                   # Allure results & screenshots
-├── conftest.py                 # Pytest fixtures
-├── pytest.ini                  # Pytest configuration
-└── requirements.txt            # Python dependencies
-\`\`\`
+├── tests/               # Test cases
+├── pages/               # Page Object Model classes
+├── utils/               # Utility functions
+├── reports/             # Allure results & screenshots
+├── conftest.py          # Pytest fixtures
+├── pytest.ini           # Pytest configuration
+└── requirements.txt     # Python dependencies
 
----
 
 ## ✅ Features Implemented
 - [x] Day 1: Basic Playwright test
