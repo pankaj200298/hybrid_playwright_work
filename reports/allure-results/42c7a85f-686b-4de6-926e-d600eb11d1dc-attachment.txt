@@ -1,0 +1,2 @@
+2025-08-11 17:00:24.893 | INFO     | conftest:browser_page:24 - Starting test: [FIREFOX]_test_demo_login
+2025-08-11 17:00:41.823 | INFO     | conftest:browser_page:32 - Screenshot saved to reports/[FIREFOX]_test_demo_login.png

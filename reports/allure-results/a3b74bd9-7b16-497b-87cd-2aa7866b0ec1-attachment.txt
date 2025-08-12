@@ -1,0 +1,2 @@
+2025-08-11 17:15:52.842 | INFO     | conftest:browser_page:31 - Starting test: [FIREFOX]_test_demo_invalid_login
+2025-08-11 17:15:58.050 | INFO     | conftest:browser_page:43 - Screenshot saved to reports/[FIREFOX]_test_demo_invalid_login.png
